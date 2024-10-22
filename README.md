@@ -1,4 +1,4 @@
-Простой редактор таблиц бд Postgres на tkinter и psycopg2
+Простой редактор бд Postgres на tkinter и psycopg2
 
 Установка зависимостей:
 
